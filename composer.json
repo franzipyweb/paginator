@@ -1,0 +1,19 @@
+{
+    "name": "beaded/paginator",
+    "description": "Custom Paginator for Beadedstream Project",
+    "keywords":[
+        "laravel",
+        "paginator"
+    ],
+    "homepage":"https://github.com/creitive/laravel5-breadcrumbs",
+    "authors": [
+        {
+            "name": "Franz Brian",
+            "email": "franz@westernvp.com"
+        }
+    ],
+    "license": "MIT License",
+    "autoload": {
+    },
+    "minimum-stability": "dev"
+}
