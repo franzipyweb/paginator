@@ -15,5 +15,6 @@
     "license": "MIT License",
     "autoload": {
         "Paginator\\": "src/"
-    }
+    },
+    "minimum-stability": "dev"
 }
