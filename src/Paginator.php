@@ -1,5 +1,5 @@
 <?php
-namespace Beaded\Helpers;
+namespace Beaded;
 
 class Paginator {
     public $curr_page; 
